@@ -1,6 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../lib/04_
-fourth_challenge.rb'
+require_relative '../lib/04_fourth_challenge.rb'
 
 describe "fourth_challenge" do
 	it "fills out the Montague hero's friends array with" do
